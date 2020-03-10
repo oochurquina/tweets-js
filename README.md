@@ -1,4 +1,4 @@
 ## Tweets con LocalStore
 ```
-ejecutar con liveserve
+Ejecutar con Live Server
 ```
